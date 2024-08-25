@@ -11,20 +11,19 @@ book:
   downloads: [pdf, docx]
   search: true
   author:
-    - name: Jane Doe
+    - name: Junyue Wang
       affiliations:
-        - name: NOAA Fisheres
-          department: Northwest Fisheries Science Center
-    - name: Eva Nováková
+        - name: Shandong Agricultural University
+          department: State Key Laboratory of Crop Biology, College of Agronomic Sciences
+    - name: Fei Liang
       institute: test
       affiliations:
-        - name: NOAA Fisheries
-          department: West Coast Regional Office
-          institute: test
-    - name: Matti Meikäläinen
+        - name: Henan University
+          department: State Key Laboratory of Crop Stress Adaptation and Improvement
+    - name: M. Waqar Khan
       affiliations:
-        - name: NOAA Fisheries
-          department: Southwest Fisheries Science Center
+        - name: Henan University
+          department: SState Key Laboratory of Crop Stress Adaptation and Improvement
   chapters:
     - index.qmd
     - content/setup.qmd
